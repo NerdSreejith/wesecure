@@ -1,33 +1,34 @@
 # WeSecure - Project Status
 ![WeSecure Logo](https://nerdsreejith.github.io/wesecure/images/favicon.png)
-WeSecure is a web application built using Django, aimed at providing website vulnerability scanning services. Here's the current status of the project:
 
+### Introduction
+This is an open-source web application developed by a team of five students from Govt Polytechnic, Chelakkara, consisting of:
+- Sreejith C
+- Midhun P
+- Sabareesh K
+- Adithyan Mr
+- Midhun P
 
+The project, named WeSecure, offers website vulnerability scanning services. Built using Django, WeSecure is currently at the halfway point in its development journey.
 
-## In Progress
+### Project Status
+- **In Progress**:
+  - User Authentication: Implementation is underway for secure user authentication to access the scanner and view scan reports.
+  - Enhanced Scanning Techniques: Advanced scanning methods are being explored to improve vulnerability detection accuracy.
+  - UI/UX Improvements: The user interface is being refined for better usability and visual appeal.
+- **To-Do**:
+  - Scan Scheduling: Plans to implement scan scheduling for automatic execution at specified intervals.
+  - Email Notifications: Enable email notifications for users when scans are completed and reports are ready.
+  - Advanced Reporting: Develop detailed reports with severity levels, recommendations, and remediation steps for each vulnerability.
+- **Next Steps**:
+  - Complete user authentication implementation.
+  - Integrate advanced scanning techniques for improved detection accuracy.
+  - Refine UI/UX based on user feedback.
+  - Implement scan scheduling and email notifications.
+  - Enhance reporting capabilities for comprehensive vulnerability analysis.
 
-1. **User Authentication**: Work is underway to implement user authentication for accessing the scanner and viewing scan reports securely.
-2. **Enhanced Scanning Techniques**: Advanced scanning methods are being explored to improve vulnerability detection accuracy.
-3. **UI/UX Improvements**: The user interface is undergoing refinement for better usability and visual appeal.
-
-## To-Do
-
-1. **Scan Scheduling**: Implement the ability to schedule scans for automatic execution at specified intervals.
-2. **Email Notifications**: Enable email notifications to alert users when scans are completed and reports are ready.
-3. **Advanced Reporting**: Develop detailed reports with severity levels, recommendations, and remediation steps for each vulnerability.
-
-## Next Steps
-
-1. Complete user authentication implementation.
-2. Integrate advanced scanning techniques for improved detection accuracy.
-3. Refine UI/UX based on user feedback.
-4. Implement scan scheduling and email notifications.
-5. Enhance reporting capabilities for comprehensive vulnerability analysis.
-
-
-## Current Progress: 50%
-
-WeSecure is halfway through its development journey. The core scanning functionality is in place, and efforts are now focused on enhancing user authentication, refining scanning techniques, and improving the overall user experience. Stay tuned for further updates!
+### Current Progress
+WeSecure has achieved 50% completion. The core scanning functionality is in place, and efforts are now focused on enhancing user authentication, refining scanning techniques, and improving the overall user experience. Stay tuned for further updates!
 
 For more information, visit the [WeSecure Website](https://nerdsreejith.github.io/wesecure/).
 
