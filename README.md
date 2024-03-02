@@ -1,5 +1,5 @@
 # WeSecure - Project Status
-
+![WeSecure Logo](https://nerdsreejith.github.io/wesecure/images/favicon.png)
 WeSecure is a web application built using Django, aimed at providing website vulnerability scanning services. Here's the current status of the project:
 
 
