@@ -30,6 +30,6 @@ The project, named WeSecure, offers website vulnerability scanning services. Bui
 ### Current Progress
 WeSecure has achieved 50% completion. The core scanning functionality is in place, and efforts are now focused on enhancing user authentication, refining scanning techniques, and improving the overall user experience. Stay tuned for further updates!
 
-For more information, visit the [WeSecure Website](https://nerdsreejith.github.io/wesecure/).
+For more information, visit the [WeSecure Website]([https://nerdsreejith.github.io/wesecure/](https://github.com/NerdSreejith/wesecure)).
 
 Feel free to reach out with any questions or feedback.
